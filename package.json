@@ -1,7 +1,7 @@
 {
-  "name": "crudpractice1",
+  "name": "Postgresql Server",
   "version": "1.0.0",
-  "description": "crud practice",
+  "description": "postgresql server",
   "main": "server.js",
   "scripts": {
     "start": "nodemon server.js"
